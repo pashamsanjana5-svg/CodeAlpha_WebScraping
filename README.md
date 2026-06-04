@@ -24,7 +24,7 @@ The project uses Python, Requests, BeautifulSoup, and Pandas to scrape S&P 500 c
 
 The extracted data is stored in:
 
-`sp500_companies.csv`
+`sp500_companie.csv`
 
 ## How to Run
 
